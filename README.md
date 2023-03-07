@@ -10,7 +10,7 @@ style.css: Contain style and layout of web page.
 
 Technology used
 
-Frontend:HTML,CSS
+Frontend:HTML,CSS,PHP
 
 Backend:MySQL
 
